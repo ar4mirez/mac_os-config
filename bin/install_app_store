@@ -11,6 +11,9 @@ fi
 # AdBlock
 mas install 1402042596
 
+# Display Menu
+mas install 549083868
+
 # GarageBand
 mas install 682658836
 
@@ -44,6 +47,9 @@ mas install 1510445899
 # MindNode
 mas install 1289197285
 
+# Monity
+mas install 915542151
+
 # Moom
 mas install 419330170
 
@@ -52,6 +58,12 @@ mas install 409203825
 
 # Pages
 mas install 409201541
+
+# Porn Block Plus
+mas install 1490982798
+
+# Wikibuy from Capital One
+mas install 1477110326
 
 # Xcode
 mas install 497799835
