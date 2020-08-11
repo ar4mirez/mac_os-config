@@ -164,8 +164,8 @@ defaults write NSGlobalDomain WebKitDeveloperExtras -bool true
 printf "%s\n" "Safari - Disable sending search queries to Apple.."
 defaults write com.apple.Safari UniversalSearchEnabled -bool false
 
-printf "%s\n" "Chrome - Prevent native print dialog, use system dialog instead."
-defaults write com.google.Chrome DisablePrintPreview -boolean true
+# printf "%s\n" "Chrome - Prevent native print dialog, use system dialog instead."
+# defaults write com.google.Chrome DisablePrintPreview -boolean true
 
 printf "%s\n" "Mail - Copy email addresses as 'foo@example.com' instead of 'Foo Bar <foo@example.com>'."
 defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
